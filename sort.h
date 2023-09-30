@@ -30,6 +30,7 @@ listint_t *swap(listint_t *first, listint_t **sec);
 void swap_int(int *first, int *sec);
 int divide_array(int *array, int first, int second, size_t size);
 void sort_array(int *array, int first, int sec, size_t size);
+void shell_sort(int *array, size_t size);
 
 
 #endif
