@@ -62,7 +62,7 @@ void sort_array(int *array, int first, int sec, size_t size)
 }
 /**
  * quick_sort - A function that sorts an array of integers
-*  in ascending order
+ *  in ascending order
  * @array: Array to sort
  * @size: Size of The Array
  * Return: Nothing
